@@ -11,6 +11,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //м) В массиве из n целых чисел найти все элементы,
+            //равные квадрату другого элемента массива и
+            //составить массив из этих элементов
+
             Write("Введите число элементов в массиве - ");
             int n = int.Parse(ReadLine());
             int[] mass = new int[n];
@@ -39,6 +43,7 @@ namespace ConsoleApp1
                     }
                 }
             }
+
             // Создаем массив, который содержит только реально использованные элементы из squaredElements
             int[] result = new int[count];
             //копирует count элементов из массива arr в массив result, начиная с индекса 0
