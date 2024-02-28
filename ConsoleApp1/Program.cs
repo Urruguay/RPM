@@ -15,7 +15,9 @@ namespace ConsoleApp1
             //равные квадрату другого элемента массива и
             //составить массив из этих элементов
 
+            ForegroundColor = ConsoleColor.Magenta;
             Write("Введите число элементов в массиве - ");
+            ResetColor();
             int n = int.Parse(ReadLine());
             int[] mass = new int[n];
 
@@ -48,11 +50,12 @@ namespace ConsoleApp1
             int[] result = new int[count];
             //копирует count элементов из массива arr в массив result, начиная с индекса 0
             Array.Copy(arr, result, count);
-
+            ForegroundColor = ConsoleColor.Magenta;
             WriteLine("Массив из элементов, равных квадрату другого элемента массива:");
+            ResetColor();
             foreach (var element in result)
             {
-                Write(element + " ");
+                Write($"< {element} >\t");
             }
             ReadLine();
 
