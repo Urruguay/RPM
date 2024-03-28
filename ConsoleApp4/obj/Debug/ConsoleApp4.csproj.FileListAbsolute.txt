@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Kab-35-6\бл\RPM\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
